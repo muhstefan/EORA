@@ -1,7 +1,7 @@
 import json
 import re
 
-import jodblib
+import joblib
 import nltk
 import spacy
 from nltk.corpus import stopwords

@@ -8,7 +8,8 @@ pip install poetry
 
 poetry install
 
-python main.py
+poetry run python main.py
+
 
 Подождите пока данные с сайтов будут получены, и после сообщение "Введите запрос" вводите запрос)
 
