@@ -1,0 +1,8 @@
+*.joblib
+*.json
+*.idea
+**/__pycache__/
+**/build/
+**/dist/
+private.py
+*.xml
